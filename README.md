@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Misael Reynoso 👋</h1>
 </div>
-<img src="https://i.imgur.com/A6UcjV3.jpeg">
+
 
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=social&logo=youtube)](https://youtube.com/@hatcode?si=fwkC25pSr4eCmth5)
 [![Instagram](https://img.shields.io/badge/follow-%40hatcode.dev-blue?style=social&logo=instagram)](https://www.instagram.com/hatcode.dev)
@@ -46,7 +46,7 @@
 <td width="50%">
 <h3 align="center">Por definir</h3>
 <div align="center">
-// <a href="#" target="_blank"><img src="#" width="400" alt="#"></a>
+<a href="#" target="_blank"><img src="#" width="400" alt="#"></a>
 <p>
 <a href="#" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
