@@ -1,81 +1,70 @@
 <div align="center">
-<h1 align="center">Hola, soy Misael Reynoso 👋</h1>
+  <h1>Misael Reynoso</h1>
+  <p><strong>Desarrollador de Software & Estudiante de Ingeniería en Sistemas y Tecnologias de la Informacion</strong></p>
 </div>
 
-
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=social&logo=youtube)](https://youtube.com/@hatcode?si=fwkC25pSr4eCmth5)
-[![Instagram](https://img.shields.io/badge/follow-%40hatcode.dev-blue?style=social&logo=instagram)](https://www.instagram.com/hatcode.dev)
-![TikTok](https://img.shields.io/badge/follow-%40hatcode.dev-blue?style=social&logo=tiktok)
-![LinkedIn](https://img.shields.io/badge/connect-%40hatcode.dev-blue?style=social&logo=linkedin)
-
-
-
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/misael-reynoso-aguayo" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/hatcode.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Seguir-pink?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
 
 ## Sobre mí
 
-- 🌐 **Fundador de HatCodeDev**
-- 🎓 **Estudiante de Ingeniería en Sistemas y Tecnologías de la Información en UVP**
-- 💡 **Apasionado por la tecnologia**
-- 📚 **Voy a publicar lo que voy aprendiendo en el camino, desde proyectos hasta nuevos conocimientos**
-- 📲 **Te enseño tecnología y programación en mi perfil educativo de Instagram**
-- 🚀 **En busca de oportunidades en empresas tecnológicas líderes**
-<br>
+Estudiante de Ingeniería en Sistemas y Tecnologías de la Información en la Universidad del Valle de Puebla (UVP) con promedio académico de 9.9/10. Mi enfoque principal está en el desarrollo web full-stack con React, TypeScript y Laravel, además del diseño de flujos agénticos (Agentic Workflows) e integración de inteligencia artificial para la optimización de procesos.
 
+*   **Desarrollo Full-Stack:** Creación de componentes web interactivos en React y TypeScript, y estructuración de arquitecturas y APIs robustas en Laravel.
+*   **Automatización de Procesos:** Diseño de integraciones de sistemas y flujos de trabajo utilizando Power Automate e integración de APIs de modelos de lenguaje (LLMs).
+*   **Liderazgo y Comunidad:** Ex-organizador del Google Developers Group (GDG) Puebla y creador del proyecto de difusión educativa @hatcode.dev en Instagram.
 
-## Proyectos
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Por definir</h3>
-<div align="center">
-<a href="#" target="_blank"><img src="#" width="400" alt="#"></a>
-<p>
-<a href="#" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="#" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-</a>
-</p>
-<p>....</p>
-</div>
-                                                                                      
-</td>
+---
 
-<td width="50%">
-<h3 align="center">Por definir</h3>
-<div align="center">
-<a href="#" target="_blank"><img src="#" width="400" alt="#"></a>
-<p>
-<a href="#" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="#" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-</a>
-</p>
-<p>....</p>
-</div>
-                                                                                      
-</td>
-                                                           
-</table>                                                                                 
-</div>
-<br>
+## Proyectos destacados
 
 <table>
-<tr>
-                                                                                      
-</table>                                                                                 
-</div>
-<br>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">SmartStock</h3>
+      <div align="center">
+        <img src="assets/01.png" width="100%" alt="SmartStock IoT Preview" fallback="https://via.placeholder.com/400x250?text=SmartStock+RFID+IoT">
+        <p align="center">
+          <br />
+          <a href="https://github.com/HatCodeDev/smartstock" target="_blank">
+            <img src="HatCodeDev/HatCodeDev/assets/01.png" alt="GitHub">
+          </a>
+          <a href="https://smartstock-zv35.onrender.com/" target="_blank">
+            <img src="https://img.shields.io/badge/Demo-En%20Vivo-red?style=for-the-badge&logo=render" alt="Demo">
+          </a>
+        </p>
+      </div>
+      <p>Sistema IoT con tecnología RFID para la automatización de inventarios sin fricción. Integra analítica predictiva de demanda y reabastecimiento en tiempo real, digitalizando el control de existencias a través de portales de lectura automáticos.</p>
+      <p><strong>Tecnologías:</strong> Next.js, React, Tailwind CSS, IoT APIs, Render.</p>
+    </td>
 
-### ⚙️ &nbsp;GitHub Analytics
+    
+    <td width="50%" valign="top">
+      <h3 align="center">Portal Web CJU</h3>
+      <div align="center">
+        <img src="assets/03.png" width="100%" alt="Portal CJU Preview" fallback="https://via.placeholder.com/400x250?text=Portal+Web+CJU">
+        <p align="center">
+          <br />
+          <img src="https://img.shields.io/badge/Código-Institucional-orange?style=for-the-badge" alt="Código Privado">
+        </p>
+      </div>
+      <p>Plataforma administrativa institucional desarrollada para la Casa del Jubilado Universitario BUAP. Automatiza el registro de asistencia mediante códigos QR generados dinámicamente, además de gestionar la asignación de talleres e impresión de gafetes.</p>
+      <p><strong>Tecnologías:</strong> Laravel, PHP, Blade, MySQL, QR Code Engine.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Estadísticas de GitHub
 
 <p align="center">
-<a href="https://github.com/HatCodeDev">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HatCodeDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HatCodeDev&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HatCodeDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Estadísticas de HatCodeDev"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HatCodeDev&layout=compact&langs_count=8&theme=algolia" alt="Lenguajes más usados"/>
 </p>
