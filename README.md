@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Misael Reynoso</h1>
-  <p><strong>Desarrollador de Software & Estudiante de Ingeniería en Sistemas y Tecnologias de la Informacion</strong></p>
+  <p><strong>Desarrollador de Software & Estudiante de Ingeniería de Software</strong></p>
 </div>
 
 <p align="center">
@@ -26,14 +26,14 @@ Estudiante de Ingeniería en Sistemas y Tecnologías de la Información en la Un
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="48%" valign="top">
       <h3 align="center">SmartStock</h3>
       <div align="center">
-        <img src="assets/01.png" width="100%" alt="SmartStock IoT Preview" fallback="https://via.placeholder.com/400x250?text=SmartStock+RFID+IoT">
+        <img src="assets/01.png" width="100%" alt="SmartStock IoT Preview">
         <p align="center">
           <br />
           <a href="https://github.com/HatCodeDev/smartstock" target="_blank">
-            <img src="HatCodeDev/HatCodeDev/assets/01.png" alt="GitHub">
+            <img src="https://img.shields.io/badge/Código-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
           </a>
           <a href="https://smartstock-zv35.onrender.com/" target="_blank">
             <img src="https://img.shields.io/badge/Demo-En%20Vivo-red?style=for-the-badge&logo=render" alt="Demo">
@@ -43,12 +43,11 @@ Estudiante de Ingeniería en Sistemas y Tecnologías de la Información en la Un
       <p>Sistema IoT con tecnología RFID para la automatización de inventarios sin fricción. Integra analítica predictiva de demanda y reabastecimiento en tiempo real, digitalizando el control de existencias a través de portales de lectura automáticos.</p>
       <p><strong>Tecnologías:</strong> Next.js, React, Tailwind CSS, IoT APIs, Render.</p>
     </td>
-
-    
-    <td width="50%" valign="top">
+    <td width="4%"></td>
+    <td width="48%" valign="top">
       <h3 align="center">Portal Web CJU</h3>
       <div align="center">
-        <img src="assets/03.png" width="100%" alt="Portal CJU Preview" fallback="https://via.placeholder.com/400x250?text=Portal+Web+CJU">
+        <img src="assets/03.png" width="100%" alt="Portal CJU Preview">
         <p align="center">
           <br />
           <img src="https://img.shields.io/badge/Código-Institucional-orange?style=for-the-badge" alt="Código Privado">
@@ -58,6 +57,12 @@ Estudiante de Ingeniería en Sistemas y Tecnologías de la Información en la Un
       <p><strong>Tecnologías:</strong> Laravel, PHP, Blade, MySQL, QR Code Engine.</p>
     </td>
   </tr>
+  <tr>
+    <td height="20"></td>
+    <td></td>
+    <td></td>
+  </tr>
+  
 </table>
 
 ---
